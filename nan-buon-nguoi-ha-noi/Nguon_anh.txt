@@ -1,0 +1,137 @@
+NGUỒN ẢNH — Bài thuyết trình “Nạn buôn người ở Hà Nội”
+
+Tất cả ảnh được tải từ Open Images Dataset V4 (Google) — bản sao lưu trữ trên Amazon S3:
+  https://storage.googleapis.com/openimages/web/index.html
+Ảnh gốc được đăng trên Flickr; mỗi ảnh mang giấy phép Creative Commons Attribution 2.0 (CC BY 2.0):
+  https://creativecommons.org/licenses/by/2.0/
+Yêu cầu ghi công: ghi tên tác giả + giấy phép (đã đặt trên từng slide và ở slide 15).
+Các ảnh có người chỉ mang tính MINH HỌA, không liên quan tới bất kỳ vụ việc mua bán người nào.
+Ảnh đã được cắt khung, chỉnh màu và phủ lớp tối để tăng độ tương phản (bản gốc: assets/photos/).
+
+Slide 01 — Người đi xe máy trên phố Hà Nội về đêm, hiệu ứng chuyển động
+  Tiêu đề gốc : A night rider in Hanoi
+  Tác giả     : Tristan Schmurr
+  Trang nguồn : https://www.flickr.com/photos/kewl/11610995284
+  Giấy phép   : CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+  Open Images : ImageID 5507a99062b90ade — https://open-images-dataset.s3.amazonaws.com/train/5507a99062b90ade.jpg
+  File        : assets/photos/5507a99062b90ade.jpg
+
+Slide 02 — Đôi tay đang nhắn tin trên điện thoại (không lộ mặt)
+  Tiêu đề gốc : Texting
+  Tác giả     : Brandon Giesbrecht
+  Trang nguồn : https://www.flickr.com/photos/naturegeak/6644669467
+  Giấy phép   : CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+  Open Images : ImageID 983f8b19a77cb92a — https://open-images-dataset.s3.amazonaws.com/train/983f8b19a77cb92a.jpg
+  File        : assets/photos/983f8b19a77cb92a.jpg
+
+Slide 03 — Bóng người nhìn nghiêng lúc hoàng hôn
+  Tiêu đề gốc : Silhouette
+  Tác giả     : Ethan McCandless
+  Trang nguồn : https://www.flickr.com/photos/mickyshoots/16618905772
+  Giấy phép   : CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+  Open Images : ImageID 1d8a17c5368ba73c — https://open-images-dataset.s3.amazonaws.com/train/1d8a17c5368ba73c.jpg
+  File        : assets/photos/1d8a17c5368ba73c.jpg
+
+Slide 04 — Toàn cảnh đô thị Hà Nội lúc chiều tối (đã cắt bỏ phần chữ ký ở góc ảnh)
+  Tiêu đề gốc : @HaNoi
+  Tác giả     : Leo Chuối
+  Trang nguồn : https://www.flickr.com/photos/leo_nghinphu/16634953125
+  Giấy phép   : CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+  Open Images : ImageID 862983007c81c0df — https://open-images-dataset.s3.amazonaws.com/train/862983007c81c0df.jpg
+  File        : assets/photos/862983007c81c0df.jpg
+
+Slide 04 — Ga Long Biên, Hà Nội
+  Tiêu đề gốc : Ga Long Bien, Urban Discovery Tour, Hanoi
+  Tác giả     : David McKelvey
+  Trang nguồn : https://www.flickr.com/photos/dgmckelvey/7060733973
+  Giấy phép   : CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+  Open Images : ImageID e25396eca86469fa — https://open-images-dataset.s3.amazonaws.com/train/e25396eca86469fa.jpg
+  File        : assets/photos/e25396eca86469fa.jpg
+
+Slide 04 — Khu vực quảng trường Đông Kinh Nghĩa Thục, hồ Hoàn Kiếm
+  Tiêu đề gốc : Hanoi
+  Tác giả     : Andrea Schaffer
+  Trang nguồn : https://www.flickr.com/photos/aschaf/5770571286
+  Giấy phép   : CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+  Open Images : ImageID 7423b6459cb1d8ab — https://open-images-dataset.s3.amazonaws.com/train/7423b6459cb1d8ab.jpg
+  File        : assets/photos/7423b6459cb1d8ab.jpg
+
+Slide 05 — Vòng xoay phía bắc hồ Hoàn Kiếm lúc chạng vạng
+  Tiêu đề gốc : Roundabout at the north end of Hoan Kiem Lake
+  Tác giả     : Jorge Láscar
+  Trang nguồn : https://www.flickr.com/photos/jlascar/4550346257
+  Giấy phép   : CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+  Open Images : ImageID 17378ce079b06369 — https://open-images-dataset.s3.amazonaws.com/train/17378ce079b06369.jpg
+  File        : assets/photos/17378ce079b06369.jpg
+
+Slide 06 — Đôi tay đan vào nhau trên túi xách khi chờ phỏng vấn xin việc
+  Tiêu đề gốc : She seems to wear a watch only to job interviews.
+  Tác giả     : Ryo FUKAsawa
+  Trang nguồn : https://www.flickr.com/photos/fukapon/8849909090
+  Giấy phép   : CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+  Open Images : ImageID b9429d082799d857 — https://open-images-dataset.s3.amazonaws.com/train/b9429d082799d857.jpg
+  File        : assets/photos/b9429d082799d857.jpg
+
+Slide 07 — Bàn phím máy tính trong bóng tối
+  Tiêu đề gốc : Close-up of the Alienware Laptop Keyboard
+  Tác giả     : Joey deVilla
+  Trang nguồn : https://www.flickr.com/photos/accordionguy/3993036711
+  Giấy phép   : CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+  Open Images : ImageID c8e56c2df21206d0 — https://open-images-dataset.s3.amazonaws.com/train/c8e56c2df21206d0.jpg
+  File        : assets/photos/c8e56c2df21206d0.jpg
+
+Slide 08 — Đông người tìm việc tại một hội chợ việc làm
+  Tiêu đề gốc : Workforce 2011 Job Fair @ Blaisdell Center
+  Tác giả     : Daniel Ramirez
+  Trang nguồn : https://www.flickr.com/photos/danramarch/5736207332
+  Giấy phép   : CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+  Open Images : ImageID 41bfcdc98e8e609f — https://open-images-dataset.s3.amazonaws.com/train/41bfcdc98e8e609f.jpg
+  File        : assets/photos/41bfcdc98e8e609f.jpg
+
+Slide 09 — Một người ngồi một mình bên hồ Hoàn Kiếm
+  Tiêu đề gốc : Hanoi Lake
+  Tác giả     : Smitha Murthy
+  Trang nguồn : https://www.flickr.com/photos/soulmuser/3382731868
+  Giấy phép   : CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+  Open Images : ImageID 0e5836c8bf70dc5b — https://open-images-dataset.s3.amazonaws.com/train/0e5836c8bf70dc5b.jpg
+  File        : assets/photos/0e5836c8bf70dc5b.jpg
+
+Slide 10 — Đường phố Hà Nội về đêm sau mưa
+  Tiêu đề gốc : hanoi streets
+  Tác giả     : Colin Mutchler
+  Trang nguồn : https://www.flickr.com/photos/activefree/85078103
+  Giấy phép   : CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+  Open Images : ImageID 3846c6814a2f0c2c — https://open-images-dataset.s3.amazonaws.com/train/3846c6814a2f0c2c.jpg
+  File        : assets/photos/3846c6814a2f0c2c.jpg
+
+Slide 11 — Buổi sinh hoạt, thảo luận của các bạn trẻ tình nguyện viên
+  Tiêu đề gốc : GNOME Asia FOSSASIA Volunteer Meetup Vietnam
+  Tác giả     : Hong Phuc FOSSASIA
+  Trang nguồn : https://www.flickr.com/photos/fossasia/15957291412/
+  Giấy phép   : CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+  Open Images : ImageID 4ca5243643dc1818 — https://open-images-dataset.s3.amazonaws.com/train/4ca5243643dc1818.jpg
+  File        : assets/photos/4ca5243643dc1818.jpg
+
+Slide 12 — Một người đang gọi điện thoại trên phố, ảnh đen trắng
+  Tiêu đề gốc : On the phone
+  Tác giả     : Linus Andersson
+  Trang nguồn : https://www.flickr.com/photos/soulbrother73/18314379995
+  Giấy phép   : CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+  Open Images : ImageID 1ad0685eda78ec4d — https://open-images-dataset.s3.amazonaws.com/train/1ad0685eda78ec4d.jpg
+  File        : assets/photos/1ad0685eda78ec4d.jpg
+
+Slide 13 — Khung cửa mở ra khoảng sân sáng trong một di tích ở Hà Nội
+  Tiêu đề gốc : Hanoi
+  Tác giả     : Nam-ho Park
+  Trang nguồn : https://www.flickr.com/photos/namho/2824834454
+  Giấy phép   : CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+  Open Images : ImageID 869e098ffd768989 — https://open-images-dataset.s3.amazonaws.com/train/869e098ffd768989.jpg
+  File        : assets/photos/869e098ffd768989.jpg
+
+Slide 14 — Nhóm người đứng ngắm bình minh
+  Tiêu đề gốc : Sunrise Photo walk at Celestial Gardens
+  Tác giả     : dbgg1979
+  Trang nguồn : https://www.flickr.com/photos/dbgg1979/4519512183
+  Giấy phép   : CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+  Open Images : ImageID af8683a47a215a63 — https://open-images-dataset.s3.amazonaws.com/train/af8683a47a215a63.jpg
+  File        : assets/photos/af8683a47a215a63.jpg

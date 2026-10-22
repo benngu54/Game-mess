@@ -1,0 +1,33 @@
+TÀI LIỆU THAM KHẢO — Bài thuyết trình “Nạn buôn người ở Hà Nội”
+
+PHÁP LUẬT, CHÍNH SÁCH & TỔ CHỨC QUỐC TẾ
+
+[1] Văn phòng Quốc hội (2025). Văn bản hợp nhất 138/VBHN-VPQH: Luật Phòng, chống mua bán người (Luật 53/2024/QH15). https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/9/138-vbhn-vpqh.pdf
+[2] Chính phủ (2025). Nghị định 162/2025/NĐ-CP quy định chi tiết Luật Phòng, chống mua bán người. https://vbpl.vn/TW/Lists/vbpq/Attachments/179697/162_2025_ND-CP_663357.doc
+[3] Báo Văn hóa (2026). 9 mục tiêu, 8 nhiệm vụ phòng, chống mua bán người (QĐ 33/QĐ-TTg). https://baovanhoa.vn/doi-song/9-muc-tieu-8-nhiem-vu-phong-chong-mua-ban-nguoi-195997.html
+[4] UNODC. Human trafficking: act, means, purpose (Nghị định thư Palermo, Điều 3). https://unodc.org/conig/en/stories/human-trafficking.html
+[5] Vietnamnet. 30/7 là Ngày toàn dân phòng, chống mua bán người (QĐ 793/QĐ-TTg). https://vietnamnet.vn/307-la-ngay-toan-dan-phong-chong-mua-ban-nguoi-315614.html
+[6] VnEconomy (2025). A national telephone hotline for human trafficking prevention launched. https://en.vneconomy.vn/a-national-telephone-hotline-for-human-trafficking-prevention-launched.htm
+
+SỐ LIỆU & BÁO CHÍ
+
+[7] Vietnamnet (2025). Phòng ngừa nạn mua bán người ngay từ tuyến đầu (số liệu 2024 của Bộ Công an). https://vietnamnet.vn/phong-ngua-nan-mua-ban-nguoi-ngay-tu-tuyen-dau-2479028.html
+[8] An ninh Thủ đô (2025). Bộ Công an điều tra, xử lý 163 vụ mua bán người. https://anninhthudo.vn/bo-cong-an-dieu-tra-xu-ly-163-vu-mua-ban-nguoi-post603866.antd
+[9] Báo Lào Cai (2025). Việt Nam siết chặt trận tuyến phòng chống tội phạm mua bán người. https://baolaocai.vn/viet-nam-siet-chat-tran-tuyen-phong-chong-toi-pham-mua-ban-nguoi-post649993.html
+[10] PLO (2024). Quý III-2024, có hơn 100 nam giới là nạn nhân của tội phạm mua bán người. https://plo.vn/quy-iii-2024-co-hon-100-nam-gioi-la-nan-nhan-cua-toi-pham-mua-ban-nguoi-post816519.html
+[11] Bộ Công an (2025). Phát hiện, điều tra 50 vụ mua bán người trong đợt cao điểm. https://www.mps.gov.vn/bai-viet/luc-luong-cong-an-phat-hien-dieu-tra-50-vu-mua-ban-nguoi-trong-dot-cao-diem-tan-cong-tran-ap-toi-pham-mua-ban-nguoi-tren-pham-vi-toan-quoc-1762498361
+[12] Tuổi Trẻ (2025). Công an TP.HCM triệt phá đường dây bán người cho “trung tâm lừa đảo trực tuyến” ở Campuchia. https://tuoitre.vn/cong-an-tp-hcm-triet-pha-duong-day-ban-nguoi-cho-trung-tam-lua-dao-truc-tuyen-o-campuchia-20250107115109926.htm
+[13] SGGP. Nhiều người bị lừa “việc nhẹ, lương cao”, Bộ Công an phát cảnh báo. https://www.sggp.org.vn/nhieu-nguoi-bi-lua-viec-nhe-luong-cao-bo-cong-an-phat-canh-bao-post642677.html
+
+GHI CHÚ VỀ DỮ LIỆU
+- Số liệu năm 2024 và quý I/2025 là số liệu TOÀN QUỐC do Bộ Công an công bố, được báo chí dẫn lại.
+- Chưa tìm thấy thống kê công khai riêng của Công an TP. Hà Nội cho giai đoạn 2024–2025.
+- Các con số thuộc những đợt báo cáo khác nhau (năm, quý, đợt cao điểm) nên không cộng dồn.
+- Tổng đài 111: Tổng đài quốc gia về phòng, chống mua bán người (dùng chung số với Tổng đài quốc gia
+  bảo vệ trẻ em), theo Nghị định 162/2025/NĐ-CP; miễn phí, 24/7.
+- Luật 53/2024/QH15 được sửa đổi, bổ sung bởi Luật 86/2025/QH15 (sửa đổi Bộ luật Hình sự), cùng có
+  hiệu lực từ 01/7/2025 — theo VBHN 138/VBHN-VPQH.
+
+FONT
+- Be Vietnam Pro — SIL Open Font License, https://fonts.google.com/specimen/Be+Vietnam+Pro
+  (file font kèm theo trong assets/fonts/).
